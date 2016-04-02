@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Generic_LinqIU\Generic_LinqIU\bin\Debug\Generic_LinqIU.exe.config
+C:\Users\admin\Desktop\Generic_LinqIU\Generic_LinqIU\bin\Debug\Generic_LinqIU.exe
+C:\Users\admin\Desktop\Generic_LinqIU\Generic_LinqIU\bin\Debug\Generic_LinqIU.pdb
+C:\Users\admin\Desktop\Generic_LinqIU\Generic_LinqIU\obj\Debug\LinqIU.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Generic_LinqIU\Generic_LinqIU\obj\Debug\Generic_LinqIU.exe
+C:\Users\admin\Desktop\Generic_LinqIU\Generic_LinqIU\obj\Debug\Generic_LinqIU.pdb
+C:\Users\admin\Desktop\LinqIU\Generic_LinqIU\bin\Debug\Generic_LinqIU.exe.config
+C:\Users\admin\Desktop\LinqIU\Generic_LinqIU\obj\Debug\Generic_LinqIU.exe
+C:\Users\admin\Desktop\LinqIU\Generic_LinqIU\obj\Debug\Generic_LinqIU.pdb
